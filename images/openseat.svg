@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="322.02902"
+   height="322.02902"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="H:\git\openseat\client\favicon.png"
+   inkscape:export-xdpi="17.886589"
+   inkscape:export-ydpi="17.886589"
+   sodipodi:docname="openseat.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3944">
+      <stop
+         style="stop-color:#c7eae5;stop-opacity:0;"
+         offset="0"
+         id="stop3946" />
+      <stop
+         style="stop-color:#c7eae5;stop-opacity:0.49107143;"
+         offset="1"
+         id="stop3948" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3944"
+       id="radialGradient3950"
+       cx="79.193039"
+       cy="527.19257"
+       fx="79.193039"
+       fy="527.19257"
+       r="58.788219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.120291,-0.00707203,0.00766837,1.2147569,-13.568919,-112.65821)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3944"
+       id="linearGradient3954"
+       x1="83.034286"
+       y1="586.09906"
+       x2="83.034286"
+       y2="544.15411"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96563418,0,0,1,2.7215337,-1133.8124)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4589">
+      <rect
+         style="opacity:0.45814981;fill:#000000;fill-opacity:1;stroke:none"
+         id="rect4591"
+         width="322.02902"
+         height="322.02902"
+         x="267.07767"
+         y="153.17563"
+         inkscape:export-filename="H:\git\openseat\client\favicon.png"
+         inkscape:export-xdpi="17.886589"
+         inkscape:export-ydpi="17.886589" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="435.23257"
+     inkscape:cy="114.11708"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="iconframe"
+     style="opacity:0"
+     transform="translate(-267.07767,-153.17563)">
+    <rect
+       style="opacity:0.45814981;fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3879"
+       width="322.02902"
+       height="322.02902"
+       x="267.07767"
+       y="153.17563"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="words"
+     transform="translate(-267.07767,-153.17563)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="floor"
+     transform="translate(-267.07767,-153.17563)">
+    <g
+       id="g4527"
+       clip-path="url(#clipPath4589)"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3862"
+         d="m 324.38924,404.47478 -23.7533,22.07984 54.1301,0 10.96306,-22.07984 z"
+         style="fill:#01665e;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3864"
+         d="m 258.26804,463.27576 76.93762,0 -10.27787,19.91657 -66.39723,0 z"
+         style="fill:#c7eae5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3866"
+         d="m 355.12806,426.55462 -20.16046,36.72114 58.659,0 8.16772,-36.72114 z"
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3868"
+         d="m 258.53608,426.55462 42.54535,0 -42.58286,36.88338 z"
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4266"
+         d="m 407.17083,404.47478 -5.25041,22.07984 51.37894,0 -6.2149,-22.07984 z"
+         style="fill:#01665e;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4268"
+         d="m 392.91973,463.27576 -5.12659,19.91657 79.00727,0 -5.84144,-19.91657 z"
+         style="fill:#c7eae5;fill-opacity:1;stroke:none" />
+      <rect
+         y="363.07947"
+         x="365.61929"
+         height="41.368919"
+         width="41.368919"
+         id="rect4411"
+         style="fill:#01665e;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#01665e;fill-opacity:1;stroke:none"
+         id="rect4413"
+         width="41.368919"
+         height="41.368919"
+         x="282.66211"
+         y="363.07953" />
+      <rect
+         y="321.7106"
+         x="324.25034"
+         height="41.368919"
+         width="41.368919"
+         id="rect4415"
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4423"
+         d="m 258.20003,404.4781 0,14.01201 25.03786,-14.01201 -25.03786,0 z"
+         style="fill:#01665e;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+         id="rect4461"
+         width="24.397055"
+         height="41.368919"
+         x="258.21918"
+         y="321.7106" />
+      <rect
+         style="fill:#01665e;fill-opacity:1;stroke:none"
+         id="rect4463"
+         width="41.368919"
+         height="41.368919"
+         x="531.09497"
+         y="363.07947" />
+      <rect
+         y="363.07953"
+         x="448.13779"
+         height="41.368919"
+         width="41.368919"
+         id="rect4465"
+         style="fill:#01665e;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+         id="rect4467"
+         width="41.368919"
+         height="41.368919"
+         x="489.72601"
+         y="321.7106" />
+      <rect
+         y="321.7106"
+         x="406.72299"
+         height="41.368919"
+         width="41.368919"
+         id="rect4469"
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none" />
+      <rect
+         y="321.7106"
+         x="572.46387"
+         height="41.368919"
+         width="23.866686"
+         id="rect4473"
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none" />
+      <rect
+         y="378.24057"
+         x="629.58862"
+         height="1.8562976"
+         width="0.26518539"
+         id="rect4475"
+         style="fill:#01665e;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#01665e;fill-opacity:1;stroke:none"
+         d="m 530.25118,404.47478 23.7533,22.07984 -54.13011,0 -10.96306,-22.07984 z"
+         id="path4477"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#c7eae5;fill-opacity:1;stroke:none"
+         d="m 596.37237,463.27576 -76.93761,0 10.27786,19.91657 66.39723,0 z"
+         id="path4479"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+         d="m 499.51236,426.55462 20.16045,36.72114 -58.659,0 -8.16771,-36.72114 z"
+         id="path4481"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+         d="m 596.10434,426.55462 -42.54536,0 42.58287,36.88338 z"
+         id="path4483"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#01665e;fill-opacity:1;stroke:none"
+         d="m 596.44039,404.4781 0,14.01201 -25.03786,-14.01201 25.03786,0 z"
+         id="path4485" />
+      <rect
+         style="fill:#c7eae5;fill-opacity:1;stroke:none"
+         id="rect4487"
+         width="41.368919"
+         height="41.368919"
+         x="365.61929"
+         y="279.073" />
+      <rect
+         y="279.07309"
+         x="282.66211"
+         height="41.368919"
+         width="41.368919"
+         id="rect4489"
+         style="fill:#c7eae5;fill-opacity:1;stroke:none" />
+      <rect
+         y="279.073"
+         x="531.09497"
+         height="41.368919"
+         width="41.368919"
+         id="rect4495"
+         style="fill:#c7eae5;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#c7eae5;fill-opacity:1;stroke:none"
+         id="rect4497"
+         width="41.368919"
+         height="41.368919"
+         x="448.13779"
+         y="279.07309" />
+      <rect
+         style="fill:#c7eae5;fill-opacity:1;stroke:none"
+         id="rect4505"
+         width="0.26518539"
+         height="1.8562976"
+         x="629.58862"
+         y="294.23413" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="chari"
+     style="display:inline"
+     transform="translate(-267.07767,-153.17563)">
+    <path
+       style="fill:#c7eae5;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 478.125,199.625 0,0.0312 -78.875,0.46875 c 0,0 -3.82927,0.61553 -4.25,5.03125 -0.26317,2.76221 2,6.34375 2,6.34375 0,0 -2.75507,1.24318 -2.25,5.03125 0.50508,3.78808 2.5,4.8125 2.5,4.8125 0,0 -3.03633,1.74571 -2.53125,5.28125 0.50507,3.53553 2.78125,4.5625 2.78125,4.5625 0,0 -3.53633,1.27443 -3.03125,5.0625 0.50508,3.78807 2.05981,3.57028 4.03125,4.78125 5.41256,2.74785 26.31205,6.93823 67.5625,8.0625 0,0 -0.0625,146.42857 -5.0625,162.5 -5,16.07143 -26.74871,8.47562 -27.84375,22.84375 -0.003,0.6004 0.003,1.39952 0,1.8125 0,0 -2.44394,1.98907 -2.875,4.09375 -0.43106,2.10468 5.70982,17.3125 54.28125,17.3125 49.19019,0 49.79046,-13.97278 49.84375,-18.03125 0.0371,-2.82472 -1.96558,-5.3191 -3.1875,-6.59375 -2.3969,-12.45466 -22.86067,-5.92268 -27.6875,-21.4375 -4.99899,-16.06814 -9.40287,-162.3695 -9.40625,-162.4687 41.77704,-1.09156 62.89648,-5.32828 68.34375,-8.09375 1.97144,-1.21097 3.55742,-0.99318 4.0625,-4.78125 0.50508,-3.78807 -3.03125,-5.0625 -3.03125,-5.0625 0,0 2.27618,-1.02697 2.78125,-4.5625 0.50508,-3.53554 -2.53125,-5.28125 -2.53125,-5.28125 0,0 1.96367,-1.02442 2.46875,-4.8125 C 566.72382,212.74323 564,211.5 564,211.5 c 0,0 2.23192,-3.58154 1.96875,-6.34375 -0.42073,-4.41572 -4.25,-5.03125 -4.25,-5.03125 l -78.875,-0.46875 0,-0.0312 -2.34375,0 z"
+       id="path3828"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscscscsccsccssscsccscscscsccccc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#8c510a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 399.76787,199.8748 c 0,0 -2.27284,-14.64721 78.7919,-14.64721 81.06474,0 82.57997,12.87944 82.57997,12.87944 1.1823,4.18725 -1.49693,8.34233 -79.54951,11.86929 -38.16454,-0.96759 -81.82817,-0.72352 -81.82236,-10.10152 z"
+       id="path3795"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#d8b365;fill-opacity:1;stroke:none"
+       d="m 424.13781,201.5163 c 1.09799,-1.40477 11.31498,0.99675 18.71689,0.91859 5.22877,-0.0552 20.47853,-0.5476 18.91128,1.84901 0,0 -13.93717,2.18175 -24.00729,1.23004 -10.07012,-0.95171 -13.62088,-3.99764 -13.62088,-3.99764 z"
+       id="path3824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csczc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       sodipodi:nodetypes="cczc"
+       inkscape:connector-curvature="0"
+       id="path3826"
+       d="m 491.84774,197.08457 c 2.71286,0.0887 39.56832,0.70547 41.74253,-0.99852 0,0 -3.2768,2.94376 -18.04118,3.44707 -14.76438,0.50331 -23.70135,-2.44855 -23.70135,-2.44855 z"
+       style="fill:#d8b365;fill-opacity:1;stroke:none"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#01665e;fill-opacity:1;stroke:none"
+       d="m 434.0625,436.50458 c 12.61581,10.67149 30.84975,12.42161 52.05353,14.77187 -21.03862,-0.67008 -44.06739,-3.54352 -52.05353,-14.77187 z"
+       id="path3832"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+       d="m 466.50108,248.61466 c 9.21344,0.90975 18.4837,0.75116 27.14785,3e-5 0,0 -2.98326,2.31912 -12.69005,3.47241 -6.37658,0.75761 -14.4578,-3.4724 -14.4578,-3.4724 z"
+       id="path3834"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+       d="m 477.67857,239.45162 c -27.1866,-0.0713 -59.88831,1.36036 -79.28571,-8.21428 26.25429,8.66353 52.80895,7.11448 79.28571,8.21428 z"
+       id="path3836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3838"
+       d="m 477.67857,229.45162 c -27.1866,-0.0713 -59.88831,1.36036 -79.28571,-8.21428 26.25429,8.66353 52.80895,7.11448 79.28571,8.21428 z"
+       style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#5ab4ac;fill-opacity:1;stroke:none"
+       d="m 477.67857,219.98733 c -27.1866,-0.0713 -59.88831,1.36036 -79.28571,-8.21428 26.25429,8.66353 52.80895,7.11448 79.28571,8.21428 z"
+       id="path3840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+    <path
+       style="fill:#f6e8c3;fill-opacity:1;stroke:none"
+       d="m 533.03572,212.30877 c 8.24225,-2.97873 20.49044,-2.46648 31.60714,-8.92857 0.84094,1.93459 0.15232,3.79634 -6.02438,5.39675 -8.89172,1.72347 -18.56076,4.61292 -25.58276,3.53182 z"
+       id="path3842"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="H:\git\openseat\client\favicon.png"
+       inkscape:export-xdpi="17.886589"
+       inkscape:export-ydpi="17.886589" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="colors"
+     style="display:inline"
+     transform="translate(-267.07767,-153.17563)" />
+</svg>
